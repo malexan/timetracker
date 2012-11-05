@@ -20,3 +20,8 @@
 
 ## Оборудование
 Программа должна работать на телефоне [Samsung bt-b2710](http://forum.sgh.ru/topic45634s40.html) (Операционная система SHP, JAVA™ MIDP2.1, CLDC 1.1(SUN VM)).
+
+## Аналоги
+Найдено несколько схожих по функциональности программ, но ни одна из них не подходит под все требования заказчика.
+* [Punch](http://64.186.129.164/?option=com_k2&view=item&id=13836:punch-1.0-timesheet-punch-clock.-punch-is-a-time-tracker:-create-a-project,-punch-in,-punch-out,-and-view-report-on-how-much-time-you%27ve-spent-on-a-project---dallaway.com-java-mobile-applications&Itemid=193&fontstyle=f-larger)
+* [My Time Tracker]()
